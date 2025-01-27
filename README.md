@@ -10,9 +10,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamsk8989" alt="shubhamsk8989" /></a> </p>
 
+- 👯 I’m looking to collaborate on [FeWork](https://github.com/shubhamsk8989/FeWork)
+
 - 🌱 I’m currently learning **Python, Django, SQL, Javascript, HTML, CSS, Bootstrap**
 
-- 📝 All about me are available at [https://www.linkedin.com/in/shubham-kumar-279499201/](https://www.linkedin.com/in/shubham-kumar-279499201/)
+- 📝 All about me are available at [LinkedIn](https://www.linkedin.com/in/shubham-kumar-279499201/)
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b6lMuf8dGPEpQqbxWuBw7l2ogIiuQ44k/view?usp=drive_link)
 
 - 👨‍💻 Welcome to my HackerRank Account [https://www.hackerrank.com/profile/shubhamsk8989338](https://www.hackerrank.com/profile/shubhamsk8989338)
 
@@ -21,8 +25,6 @@
 - 📫 How to reach me **shubhamsk8989338@gmail.com**
 
 - 👨‍💻 Welcome to my CodeChef Account [https://www.codechef.com/users/shubhamsk_8989](https://www.codechef.com/users/shubhamsk_8989)
-
-- 📄 Know about my experiences **https://drive.google.com/file/d/1b6lMuf8dGPEpQqbxWuBw7l2ogIiuQ44k/view?usp=drive_link**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
